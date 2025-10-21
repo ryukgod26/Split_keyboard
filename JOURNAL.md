@@ -6,13 +6,15 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Split Keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/76).
-
-
 ## 10/3/2025 - Starting the Project  
 
 This is my First Time Building a Hardware project in hackclub and I don't know how to design Pcb and create 3d models for 3d Printers. I am Going to use a Guide to build a Split Keyboard and I will also add something of my own in the end in the keyboard. This is the Picture of the Parts i own and will use.![WhatsApp Image 2025-10-03 at 23.25.25_03dffe1d.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg1LCJwdXIiOiJibG9iX2lkIn19--b4abef96bb363e17b5e1ad3d7da1051c5562ff9a/WhatsApp%20Image%202025-10-03%20at%2023.25.25_03dffe1d.jpg)
 ![WhatsApp Image 2025-10-03 at 23.25.25_03dffe1d.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg0LCJwdXIiOiJibG9iX2lkIn19--066f006f5d909245cd1aeaf27c4af115f16b85fe/WhatsApp%20Image%202025-10-03%20at%2023.25.25_03dffe1d.jpg)
+  
+
+## 10/22/2025 - Created My First Schematic and now creating my first PCB  
+
+![image_2025-10-22_013138201.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--879b76744ff7a0526c24ba4de6bab07f45500ff7/image_2025-10-22_013138201.png)
+This is my first time creating a Pcb and Schematic. I am following the Guide to Create them and I am very excited to learn more about them. This is a very Amazing Process.![image_2025-10-22_013126852.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--589216fe08434923436b4089733b5bcacf53b54d/image_2025-10-22_013126852.png)
   
 
