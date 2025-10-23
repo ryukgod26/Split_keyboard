@@ -18,3 +18,9 @@ This is my First Time Building a Hardware project in hackclub and I don't know h
 This is my first time creating a Pcb and Schematic. I am following the Guide to Create them and I am very excited to learn more about them. This is a very Amazing Process.![image_2025-10-22_013126852.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--589216fe08434923436b4089733b5bcacf53b54d/image_2025-10-22_013126852.png)
   
 
+## 10/24/2025 - Completed the bottom Design of hackpad  
+
+![image_2025-10-24_002921581.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--cc78373f85516bd79373785ba39aa97adb1f695f/image_2025-10-24_002921581.png)
+![image_2025-10-24_002906879.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--10e517fa9e885c67432578e652c6a6dc0012c497/image_2025-10-24_002906879.png)
+I am still developing the hackpad and completed the bottom of it and now I am building the top of the macropad. This is my first time using Fusion 360 to build a model with this Precison that's why I am taking too much time.  
+
